@@ -303,7 +303,11 @@ main {
 .button-link { padding-right: 0.95rem; }
 .toggle:hover,
 .button-link:hover { background: #dfe3fb; color: var(--accent-strong); }
-
+.draft-note {
+  align-self: center;
+  font-size: 0.9375rem;
+  color: var(--muted);
+}
 .toggle[aria-expanded="true"] { background: var(--accent); color: #fff; }
 .toggle[aria-expanded="true"]:hover { background: var(--accent-strong); color: #fff; }
 
