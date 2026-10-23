@@ -9,17 +9,17 @@
 #   figures        optional, shown at the bottom of the abstract panel: {src, caption}
 #   presentations  list of venues, shown at the end of the abstract ("Presented at: ...")
 
-- title: "Learning the Tax Code: Inattention and Taxable Income Responses"
+- title: "Learning the Corporate Tax Code: Inattention and Taxable Income Responses"
   coauthors: []
   pdf:
   draft_on_request: true
   abstract: >-
     This paper investigates the extent to which corporate taxpayers exhibit inattention to tax policy changes and quantifies how such inattention affects behavioral responses to reform. 
     I exploit a French corporate income tax reform that replaced a flat-rate system with a progressive two-tier structure featuring a discrete threshold. I leverage a distinctive institutional feature to identify inattentive behavior: the self-reported tax liability. 
-    First, I find that up to 19\% of firms display inattention to the reform, continuing to apply the pre-reform tax schedule rather than the prevailing code. 
-    Second, I estimate the taxable income elasticity by exploiting excess bunching at the threshold, demonstrating that aggregate frictions, among which inattention, attenuate the estimated elasticity by 39\% in the short run.
-    Combining these estimates, I calculate that inattention imposes an average cost of \EUR{903} per firm-year, representing 2.36\% of taxable income.
-    Overall, firm inattention reduces the short-run welfare gains from the reform by 19\%.
+    First, I find that up to 19% of firms display inattention to the reform, continuing to apply the pre-reform tax schedule rather than the prevailing code. 
+    Second, I estimate the taxable income elasticity by exploiting excess bunching at the threshold, demonstrating that aggregate frictions, among which inattention, attenuate the estimated elasticity by 39% in the short run.
+    Combining these estimates, I calculate that inattention imposes an average cost of 903€ per firm-year, representing 2.36% of taxable income.
+    Overall, firm inattention reduces the short-run welfare gains from the reform by 19%.
   figures:
     - src: /files/learning.gif
       caption: "Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)"
