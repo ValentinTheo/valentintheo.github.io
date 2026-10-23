@@ -9,34 +9,20 @@
 #   figures        optional, shown at the bottom of the abstract panel: {src, caption}
 #   presentations  list of venues, shown at the end of the abstract ("Presented at: ...")
 
-- title: "A Costly Transfer: Attention, Avoidance and Entry after a Corporate Tax Cut"
+- title: "Learning the Tax Code: Inattention and Taxable Income Responses"
   coauthors: []
   pdf:
   draft_on_request: true
   abstract: >-
-    Do corporate tax cuts achieve their aim once the full range of firm responses is
-    accounted for? I study a 2001 French reform that introduced a reduced corporate rate
-    on profits below a threshold, and use exhaustive administrative data to measure firms'
-    real, avoidance, extensive, and attention responses that I integrate in a welfare
-    framework. I find that the response of incumbent firms is almost entirely an accounting
-    phenomenon: real activity, i.e. sales, employment, and payouts, does not move detectably,
-    and the implied elasticity of reported corporate income is small, rising from 0.07 to
-    0.11 over the post-reform period as firms learn. The reform exhibits, however, a sizable
-    increase in corporate entry of 38% relative to personal entry. Yet, a fraction of these
-    new entries are split entities, personal-form incumbents creating corporate entities to
-    shift income. Exploiting a French reporting requirement that lets me measure attention
-    directly, I estimate that 21% of firms fail to apply the new schedule in the first year,
-    with inattention disappearing within three years and accounting for 74% of the
-    elasticity's short-run attenuation. Inattention is costly and is equivalent to a 25%
-    surtax on income relative to attentive firms. Together, these results imply that the
-    reform's return is concentrated on the entry margin rather than the inframarginal
-    transfer to incumbents, which is costly but yields no detectable effect other than
-    avoidance.
+    This paper investigates the extent to which corporate taxpayers exhibit inattention to tax policy changes and quantifies how such inattention affects behavioral responses to reform. 
+    I exploit a French corporate income tax reform that replaced a flat-rate system with a progressive two-tier structure featuring a discrete threshold. I leverage a distinctive institutional feature to identify inattentive behavior: the self-reported tax liability. 
+    First, I find that up to 19\% of firms display inattention to the reform, continuing to apply the pre-reform tax schedule rather than the prevailing code. 
+    Second, I estimate the taxable income elasticity by exploiting excess bunching at the threshold, demonstrating that aggregate frictions, among which inattention, attenuate the estimated elasticity by 39\% in the short run.
+    Combining these estimates, I calculate that inattention imposes an average cost of \EUR{903} per firm-year, representing 2.36\% of taxable income.
+    Overall, firm inattention reduces the short-run welfare gains from the reform by 19\%.
   figures:
     - src: /files/learning.gif
       caption: "Firms' reported tax amount (dotted) and true tax code (plain) before and after the reforms (2001-2002)"
-    - src: /files/business_creation.gif
-      caption: "Business creation by taxable income, across years (pre-reform in red, post-reform in blue)"
   presentations:
     - "UC Berkeley Public Finance Seminar (Berkeley, 2025)"
     - "Center for Business Taxation Doctoral Conference (Oxford, 2025)"
@@ -47,6 +33,19 @@
     - "CESifo Public Economics Area Conference (Munich, 2024)"
     - "ZEW Public Finance Conference (Mannheim, 2024)"
     - "The 80th Annual Congress of the International Institute of Public Finance (Prague, 2024)"
+
+- title: "New Firms or New Entities? Corporate Entry and Entity Splitting"
+  coauthors: []
+  pdf:
+  draft_on_request: true
+  abstract: >-
+    I study how corporate tax cuts reshape firm entry, using a 2001 French reform that introduced a reduced corporate rate on profits below a threshold. Comparing corporate (CIT) and personal (PIT) business creation within département x sector cells in exhaustive registry data, I estimate a 38% increase in corporate relative to personal entry, identified as the net reallocation between organizational forms. I then show that a part of this response is not genuine entry but entity splitting: personal-form incumbents carve out new corporate entities to shift income into the lower-rate bracket. Using firms’ GPS coordinates, I document that new corporate entrants co-locate at the exact addresses of personal-form incumbents at a rising rate after the reform, compared to new personal-form entrants. I show that the personal-form incumbents experiencing the arrival of a CIT entrant experience a larger decrease in sales and revenues than when a PIT entrant sets up closeby, consistent with entity splitting. 
+    The split is corroborated by a second, confound-robust strategy matching entrants to incumbents on shared address and surname, which the general rise in corporate entry cannot manufacture, and by a sharp contemporaneous decline in the matched incumbents’ reported income onto successive personal-income-tax brackets. Together these establish the existence and direction of the splitting channel, though its magnitude is identified only suggestively given the chosen timing of splits. The findings imply that corporate entry responses to threshold-based tax cuts overstate genuine business creation, since avoidance-driven entity creation contaminates the entry margin which has direct consequences for the welfare evaluation of such reforms.
+  figures:
+    - src: /files/business_creation.gif
+      caption: "Business creation by taxable income, across years (pre-reform in red, post-reform in blue)"
+  presentations:
+    
 
 - title: "Taxing Digital Addiction"
   coauthors: []
