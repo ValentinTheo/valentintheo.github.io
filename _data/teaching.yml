@@ -1,0 +1,14 @@
+# TA sessions, most recent first. Leave url empty if there is no course page.
+
+- course: "Econometrics 2"
+  url: "https://www.ensae.fr/courses/150"
+  details: "ENSAE Paris, Pr. Michael Visser (Graduate level, Spring 2023)"
+- course: "Econometrics - 3A CI/MS"
+  url: "https://www.ensae.fr/courses/156"
+  details: "ENSAE Paris, Pr. Bertrand Garbinti (Graduate level, Fall 2022)"
+- course: "Econometrics 1"
+  url: "https://www.ensae.fr/courses/145"
+  details: "ENSAE Paris, Pr. Xavier d'Haultfoeuille (Graduate level, Fall 2022)"
+- course: "Industrial Organization"
+  url:
+  details: "Université Paris Descartes (Undergraduate level, Spring 2021)"

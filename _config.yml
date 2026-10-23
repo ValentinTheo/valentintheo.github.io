@@ -1,0 +1,32 @@
+# Site settings
+title: "Théo Valentin"
+description: "Postdoctoral scholar in economics at Sciences Po. Research in public economics and taxation."
+url: "https://valentintheo.github.io"
+baseurl: ""
+lang: en
+
+# Identity shown in the header
+author:
+  name: "Théo Valentin"
+  position: "Postdoctoral scholar, Department of Economics, Sciences Po"
+  location: "Paris, France"
+  photo: "/images/portrait.jpg"
+  email: "theo.valentin@sciencespo.fr"
+  twitter: "RoudilValentinT"
+  github: "ValentinTheo"
+  cv: "/files/VALENTIN_CREST_CV.pdf"
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap
+include:
+  - _pages
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .jekyll-cache
