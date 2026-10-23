@@ -307,17 +307,6 @@ main {
 .toggle[aria-expanded="true"] { background: var(--accent); color: #fff; }
 .toggle[aria-expanded="true"]:hover { background: var(--accent-strong); color: #fff; }
 
-.toggle .count {
-  min-width: 1.4em;
-  padding: 0 0.4em;
-  border-radius: var(--radius-control);
-  background: rgba(51, 70, 211, 0.14);
-  font-size: 0.8125rem;
-  font-variant-numeric: tabular-nums;
-  text-align: center;
-}
-.toggle[aria-expanded="true"] .count { background: rgba(255, 255, 255, 0.22); }
-
 .chevron {
   width: 1.05rem;
   height: 1.05rem;
@@ -378,27 +367,16 @@ main {
   color: var(--muted);
 }
 
-.talks {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  display: grid;
-  gap: 0.35rem;
-  font-size: 0.9688rem;
+.presented {
+  margin: 1rem 0 0;
+  max-width: 42rem;
+  font-size: 0.9375rem;
+  line-height: 1.55;
+  color: var(--muted);
 }
-.talks li {
-  position: relative;
-  padding-left: 1rem;
-}
-.talks li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.62em;
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  background: var(--accent);
+.presented-label {
+  font-weight: 600;
+  color: var(--ink);
 }
 
 @media (prefers-reduced-motion: no-preference) {

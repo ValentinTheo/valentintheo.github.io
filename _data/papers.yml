@@ -7,7 +7,7 @@
 #   award          optional, one line shown under the coauthors
 #   abstract       folded text, shown with the "Abstract" button
 #   figures        optional, shown at the bottom of the abstract panel: {src, caption}
-#   presentations  list of venues, shown with the "Presentations" button
+#   presentations  list of venues, shown at the end of the abstract ("Presented at: ...")
 
 - title: "A Costly Transfer: Attention, Avoidance and Entry after a Corporate Tax Cut"
   coauthors: []
@@ -73,11 +73,11 @@
 - title: "Charitable Giving, Tax Incentives and Tax Consent"
   coauthors:
     - name: "G. Fack"
-      url: "https://dauphine.psl.eu/en/research/resume-database/profile/fack-gabrielle"
+      url: "https://sites.google.com/site/gabriellefack/"
     - name: "B. Garbinti"
       url: "https://www.bertrandgarbinti.com/"
     - name: "J. Goupille-Lebret"
-      url: "https://www.ipp.eu/en/staff/jonathan-goupille/"
+      url: "https://sites.google.com/site/jgoupillelebret/home"
   pdf:
   abstract: >-
     Charitable giving is widely subsidized through the tax system, and the design of these
