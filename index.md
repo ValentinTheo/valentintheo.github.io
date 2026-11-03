@@ -7,4 +7,7 @@ I am a postdoctoral scholar at the [Department of Economics](https://www.science
 
 I obtained my PhD in 2026 at [CREST](https://crest.science/), [ENSAE Paris](https://www.ensae.fr/en/), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pierre Boyer](https://pierrecboyer.com/) and [Michael Visser](https://faculty.crest.fr/mvisser/). I visited the **University of California, Berkeley**, hosted by **Emmanuel Saez** during the **2025 Spring semester**.
 
-My research lies in the field of **Public Economics** and especially taxation where I combine both theoretical and applied approaches. I am also very interested in **Political Science and Social Choice**.
+I am interested in the following topics:
+- Corporate Taxation and Charitable Contributions
+- The regulation of addictive designs of social media
+- Democracy and deliberation 
