@@ -53,20 +53,7 @@
   draft_on_request: true
   award: "Best Paper Award of the 9th Doctoral Workshop on the Economics of Digitization, sponsored by CESifo"
   abstract: >-
-    A substantial fraction of social media consumption relies on users' behavioral biases.
-    Yet as opposed to standard sin goods, e.g. tobacco and sodas, they are freed from
-    corrective taxation. This paper develops a model of optimal taxation of a monopoly
-    platform running a social media that jointly invests in an addictive technology and sets
-    its ad-load. While generating consumer surplus, the social media harms users through
-    overconsumption from addiction and harms non-users through negative consumption
-    externalities. Because addiction investment is observable only by the platform, the
-    social planner relies on a tax on total engagement as an indirect corrective instrument.
-    A key friction is that the platform can offset the tax by adjusting its ad-load, limiting
-    its effectiveness. I characterize the optimal tax through a sufficient statistics formula:
-    the tax equals a welfare-weighted sum of the elasticities of addiction, ad-load and
-    engagement to the tax. When the welfare gains of reducing addiction are large, the tax
-    rate reaches its upper bound through the platform's participation constraint and the
-    social planner optimally extracts all platform surplus.
+    A substantial share of social media use is driven by users’ behavioral biases. Yet, unlike tobacco or sugary drinks, social media escapes corrective taxation. I study the optimal taxation of a monopoly platform that chooses both the addictiveness of its design and its ad load. Because addictive design is observable only to the platform, the regulator must rely on a tax on engagement, an indirect Pigouvian tax. I characterize the optimal tax in terms of sufficient statistics. When the gains from curbing addictive design are large, the optimal tax extracts all platform rents. However, ads also reduce engagement: the platform can shrink its tax base by raising its ad load rather than by curbing addictive design, shifting part of the burden onto users. If over-engagement (engagement in excess of what users would choose absent addictive design) can be measured, a two-part tax can curb addictive design without pushing the platform toward higher ad loads. This matters for users insensitive to addictive design, who gain nothing from lower engagement but bear the higher ad load.
   presentations:
     - "CREST Internal Seminar (2026)"
     - "Doctoral Workshop on the Economics of Digitization (CESifo, Telecom Paris, TSE, 2026)"
